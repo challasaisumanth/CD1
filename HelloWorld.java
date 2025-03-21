@@ -14,6 +14,5 @@
         // Display the result
         System.out.println("The sum of " + number1 + " and " + number2 + " is " + sum);
 
-        scanner.close(); // Close the Scanne
-~
+        scanner.close(); // Close the Scanner
 
